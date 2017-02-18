@@ -1,7 +1,3 @@
-/* this file gets replaced with our own driver when we grade your submission.
- * So do what you want here but realize it won't persist when we grade it.
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdint.h>
@@ -42,4 +38,3 @@ int main() {
 
 	return 0;
 }
-
