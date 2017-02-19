@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "threefish.h"
 
-void threefish(unsigned char *c_n, const unsigned char *p_n, const unsigned char *k_n, const unsigned char *t_n)
+void threefish(unsigned char *c_n, const char *p_n, const unsigned char *k_n, const unsigned char *t_n)
 {
 
 	uint64_t k[4] = {0x00};
